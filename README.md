@@ -13,4 +13,5 @@
 
 ### :woman_technologist: About Me
 
-I am a Full Stack Developer. I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I am a Full Stack Developer.
+- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
