@@ -3,8 +3,9 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/alexandert_dev">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Alexander</a> 
