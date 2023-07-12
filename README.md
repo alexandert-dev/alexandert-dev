@@ -11,9 +11,8 @@
 <h1 align="center">
   Hi there, I'm <a href="#" target="_blank">Alexander</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  I am a Full Stack Developer
 </h1>
 
 ### :woman_technologist: About Me
 
-- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I’m working as Full Stack Developer and contributing to frontend and backend for building web applications.
