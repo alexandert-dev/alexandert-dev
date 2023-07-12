@@ -6,6 +6,8 @@
   <a href="https://t.me/alexandert_dev">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=alexandert-dev&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Alexander</a> 
