@@ -12,3 +12,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### :woman_technologist: About Me
+
+I am a Full Stack Developer.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
