@@ -16,3 +16,4 @@
 ### :woman_technologist: About Me
 
 - I’m working as Full Stack Developer and contributing to frontend and backend for building web applications.
+- In my free time I contribute to open source projects.
