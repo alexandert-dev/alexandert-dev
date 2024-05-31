@@ -15,7 +15,13 @@
 
 Welcome to my portfolio! I am a full-stack developer specializing in building web applications using Laravel and Vue.js. This README provides an overview of my skills, projects, and how you can get in touch with me.
 
-## Table of Contents
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📑 Table of Contents
 
 - [About Me](#about-me)
 - [Skills](#skills)
@@ -24,11 +30,11 @@ Welcome to my portfolio! I am a full-stack developer specializing in building we
 - [Setup Instructions](#setup-instructions)
 - [License](#license)
 
-## About Me
+## 👨‍💻 About Me
 
 I am a passionate full-stack developer with a strong background in both front-end and back-end technologies. My primary focus is on creating efficient, scalable, and user-friendly web applications. I have experience working with various technologies and frameworks, but I specialize in Laravel for backend development and Vue.js for frontend development.
 
-## Skills
+## 🛠️ Skills
 
 ### Front-End
 
@@ -54,7 +60,7 @@ I am a passionate full-stack developer with a strong background in both front-en
 - **CI/CD**: Knowledge of Continuous Integration and Continuous Deployment processes.
 - **Agile**: Familiar with Agile methodologies and tools like Jira and Trello.
 
-## Projects
+## 📚 Projects
 
 ### Project 1: E-Commerce Platform
 
@@ -86,7 +92,7 @@ I am a passionate full-stack developer with a strong background in both front-en
 
 **Repository**: [GitHub Link](https://github.com/username/blog-platform)
 
-## Contact
+## 📬 Contact
 
 Feel free to reach out to me via the following channels:
 
@@ -94,7 +100,7 @@ Feel free to reach out to me via the following channels:
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/username)
 - **GitHub**: [GitHub Profile](https://github.com/username)
 
-## Setup Instructions
+## 🔧 Setup Instructions
 
 To run any of my projects locally, follow these steps:
 
@@ -129,7 +135,7 @@ To run any of my projects locally, follow these steps:
    npm run dev
    ```
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
